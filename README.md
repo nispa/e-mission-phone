@@ -37,6 +37,11 @@ Install all javascript components using bower
 $ bower update
 ``
 
+Refresh config
+``
+$ ionic config build
+``
+
 Installation is now complete. You can view the current state of the application in the emulator
 
     $ ionic emulate ios --target="iPhone-6"
