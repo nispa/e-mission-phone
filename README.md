@@ -38,6 +38,7 @@ $ bower update
 ``
 
 Refresh config
+
 ``
 $ ionic config build
 ``
